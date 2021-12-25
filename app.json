@@ -1,6 +1,6 @@
 {
-  "name": "simple-swgoh-arena-tracker",
-  "description": "Simple SWGOH arena tracker",
+  "name": "test",
+  "description": "test",
   "repository": "https://github.com/iprobedroid/swgoh-arena-tracker",
   "keywords": ["docker"],
   "stack": "container"
